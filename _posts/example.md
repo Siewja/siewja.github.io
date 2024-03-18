@@ -1,5 +1,5 @@
 ---
-layout: standard
+layout: example
 title: This is an example
 permalink: /post/
 ---
